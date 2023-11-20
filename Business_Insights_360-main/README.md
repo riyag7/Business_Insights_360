@@ -184,7 +184,7 @@ In Home view, all the views button will be available. User will land on specific
 
 ![Products](https://github.com/riyag7/Business_Insights_360/blob/main/Business_Insights_360-main/Resources/Products%20View.gif)
 
-you can find the full report file here : [Report](https://github.com/riyag7/Business_Insights_360/blob/main/Report/360.pbix)
+you can find the full report file here : [Report](https://github.com/riyag7/Business_Insights_360/blob/main/Business_Insights_360-main/Report/360.pbix)
 
 
 ## Project Outcome
