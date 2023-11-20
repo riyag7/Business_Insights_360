@@ -155,34 +155,34 @@ In Home view, all the views button will be available. User will land on specific
 
 ## Overall Report
 
-![Overall Report.gif](https://github.com/riyag7/Business_Insights_360/blob/main/Resources/Overall.gif)
+![Overall Report.gif](https://github.com/riyag7/Business_Insights_360/blob/main/Business_Insights_360-main/Resources/Overall.gif)
 
 ## Info Page
 
-![Info.gif](https://github.com/riyag7/Business_Insights_360/blob/main/Resources/Info.gif)
+![Info.gif](https://github.com/riyag7/Business_Insights_360/blob/main/Business_Insights_360-main/Resources/Info.gif)
 
 ## Finance View
 
-![Finace.gif](https://github.com/riyag7/Business_Insights_360/blob/main/Resources/Finace.gif)
+![Finace.gif](https://github.com/riyag7/Business_Insights_360/blob/main/Business_Insights_360-main/Resources/Finace.gif)
 ## Sales View
 
-![Sales.gif](https://github.com/riyag7/Business_Insights_360/blob/main/Resources/Sales.gif)
+![Sales.gif](https://github.com/riyag7/Business_Insights_360/blob/main/Business_Insights_360-main/Resources/Sales.gif)
 
 ## Marketing View
 
-![Marketing.gif](https://github.com/riyag7/Business_Insights_360/blob/main/Resources/Marketing.gif)
+![Marketing.gif](https://github.com/riyag7/Business_Insights_360/blob/main/Business_Insights_360-main/Resources/Marketing.gif)
 
 ## Supply chain View
 
-![Supply chain.gif](https://github.com/riyag7/Business_Insights_360/blob/main/Resources/supply%20chain.gif)
+![Supply chain.gif](https://github.com/riyag7/Business_Insights_360/blob/main/Business_Insights_360-main/Resources/supply%20chain.gif)
 
 ## Executive View
 
-![Executive.gif](https://github.com/riyag7/Business_Insights_360/blob/main/Resources/Executive.gif)
+![Executive.gif](https://github.com/riyag7/Business_Insights_360/blob/main/Business_Insights_360-main/Resources/Executive.gif)
 
 ## Products
 
-![Products](https://github.com/riyag7/Business_Insights_360/blob/main/Resources/Products%20View.gif)
+![Products](https://github.com/riyag7/Business_Insights_360/blob/main/Business_Insights_360-main/Resources/Products%20View.gif)
 
 you can find the full report file here : [Report](https://github.com/riyag7/Business_Insights_360/blob/main/Report/360.pbix)
 
